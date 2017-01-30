@@ -118,7 +118,7 @@ public class MainFrame extends JFrame {
             }
         });
         this.jButton2.setIcon(new ImageIcon(this.getClass().getResource("/tech/alvarez/grammarcleaner/images/Sun.png")));
-        this.jButton2.setText("Inutiles");
+        this.jButton2.setText("Inútiles");
         this.jButton2.setHorizontalAlignment(2);
         this.jButton2.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent evt) {
